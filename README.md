@@ -1,3 +1,5 @@
+> **Moved:** this skill now lives in [cbzehner/skills](https://github.com/cbzehner/skills) under `skills/handoff/`. This repo is archived and read-only.
+
 # Handoff
 
 Write a clipboard-ready prompt that another agent or fresh session can pick up cold. Based on Peter Steinberger's [OpenClaw handoff](https://github.com/openclaw/agent-skills/tree/main/skills/handoff).
